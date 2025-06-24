@@ -55,7 +55,7 @@ The broad objectives of the Build-a-thon are:
 
 ## How to register for Build-a-thon 2023?
 - Form a team of max 4 + 1 (mentor) and
-- Register here: https://github.com/vrra/FGAN-Build-a-thon/issues/new/choose
+- Register here:  https://github.com/CrashingGuru/Build-a-thon-2025/issues
 - introduce your teams here: https://github.com/CrashingGuru/Build-a-thon-2025/discussions
 - See Resources below
 
