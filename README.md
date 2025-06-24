@@ -79,5 +79,5 @@ The broad objectives of the Build-a-thon are:
 - FG‑AINN use case docs (via ITU site)  
 - Mentoring sessions: Tuesdays & Fridays, 15:00 IST  
 - Contact: raise issues or email organizers: 30005100@iitb.ac.in, vishnu.n@ieee.org
-
+- Discussions: https://github.com/CrashingGuru/Build-a-thon-2025/discussions/ 
 ---
