@@ -1,6 +1,7 @@
 # FG-AINN Build‑a‑thon 2025 Challenge
 
 **Focus Group AI‑Native for Telecom Networks (FG‑AINN) Build-a-thon 2025**
+in Collaboration with ITU AI/ML 5G Challenge.
 
 ---
 
@@ -51,6 +52,12 @@ The broad objectives of the Build-a-thon are:
 - `submission/`: format and guidelines for submitting your PoC and report  
 - `evaluation/`: scoring or evaluation scripts (if provided)  
 - `docs/`: build‑a‑thon schedule, architecture guide, resources  
+
+## How to register for Build-a-thon 2023?
+- Form a team of max 4 + 1 (mentor) and
+- Register here: https://github.com/vrra/FGAN-Build-a-thon/issues/new/choose
+- introduce your teams here: https://github.com/CrashingGuru/Build-a-thon-2025/discussions
+- See Resources below
 
 ## 🔧 Build-a-thon 2.0 How to Participate
 
