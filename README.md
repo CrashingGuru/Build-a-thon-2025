@@ -53,7 +53,7 @@ The broad objectives of the Build-a-thon are:
 - `evaluation/`: scoring or evaluation scripts (if provided)  
 - `docs/`: build‑a‑thon schedule, architecture guide, resources  
 
-## How to register for Build-a-thon 2023?
+## How to register for Build-a-thon 2025?
 - Form a team of max 4 + 1 (mentor) and
 - Register here:  https://github.com/CrashingGuru/Build-a-thon-2025/issues/new/choose
 - introduce your teams here: https://github.com/CrashingGuru/Build-a-thon-2025/discussions
