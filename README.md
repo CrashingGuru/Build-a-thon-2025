@@ -27,6 +27,8 @@ Participants are expected to aim for deeper technical maturity, clear alignment 
   - Session 3: Friday, 27th June: Check-in on progress, AI native validation, and demo preparation checkpoints.
   - Session 4: Tuesday, 1st July: Mock walkthroughs of PoCs, feedback on code, and execution plans.
   - Session 5 (Final): Friday, 4th July: Final mentoring session, readiness review, and showcase demo video.
+ 
+- Final submission deadline - 4th July, midnight CEST.
 
 
 ## 🏆 Objectives
@@ -54,8 +56,7 @@ The broad objectives of the Build-a-thon are:
 
 1. Create your repo 
 2. Work on your PoC following starter code and docs  
-3. **Submit** your final demo and report by June 13 with repo link
-4. Attend mentoring sessions and the in‑person presentation June 11–13
+3. **Submit** your final demo and report by July 4, 2025 with repo link
 
 ## 📋 Evaluation Criteria
 
@@ -63,6 +64,8 @@ The broad objectives of the Build-a-thon are:
 - Innovation and relevance to FG‑AINN goals  
 - Clarity of architecture, demo and report  
 - Practicality of deployment and scalability
+- Working demo - mapping to "how to win" questions below.
+- Clear Code walkthroughs.
 
 - How to win?
   - What are the network enhancements that you are proposing? How are they enabled using AI?
