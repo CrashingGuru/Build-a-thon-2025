@@ -28,7 +28,7 @@ Participants are expected to aim for deeper technical maturity, clear alignment 
   - Session 4: Tuesday, 1st July: Mock walkthroughs of PoCs, feedback on code, and execution plans.
   - Session 5 (Final): Friday, 4th July: Final mentoring session, readiness review, and showcase demo video.
  
-- Final submission deadline - 4th July, midnight CEST.
+- Final submission deadline - 4th July 2025, midnight CEST.
 
 
 ## 🏆 Objectives
