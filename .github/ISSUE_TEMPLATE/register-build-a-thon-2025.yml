@@ -1,14 +1,14 @@
-name: Register for Build-a-thon 2023
-description: Register for Build-a-thon 2023
-title: "[Register for Build-a-thon 2023]: "
-labels: ["Register for Build-a-thon 2023"]
+name: Register for Build-a-thon 2025
+description: Register for Build-a-thon 2025
+title: "[Register for Build-a-thon 2025]: "
+labels: ["Register for Build-a-thon 2025"]
 assignees:
   - vrra
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to register for Build-a-thon 2023!
+        Thanks for taking the time to register for Build-a-thon 2025!
   - type: input
     id: team-name
     attributes:
